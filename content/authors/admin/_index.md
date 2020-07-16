@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: AML Research Group
+# role: AML Research Group
 
 # Organizations/Affiliations
 organizations:
