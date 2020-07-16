@@ -70,6 +70,7 @@ user_groups:
 - Ph.D. Students
 - Undergraduates
 - Alumni
+
 ---
 
 Welcome to Atul Research Group at the University of Michigan. Our current work focuses on adversarial machine learning along two lines. We demonstrate real risks of adversarial examples in the physical world, and we design novel algorithms and leverage multiple modalities to enhance the robustness of deep neural networks against both digital and physical attacks.
