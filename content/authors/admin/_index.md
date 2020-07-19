@@ -14,7 +14,7 @@ superuser: true
 
 # Organizations/Affiliations
 organizations:
-- name: Computer Science Engineering, University of Michigan
+- name: Computer Science and Engineering, University of Michigan
   url: "https://cse.engin.umich.edu/academics/undergraduate/computer-science-eng/"
 
 # Short bio (displayed in user profile at end of posts)
