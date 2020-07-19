@@ -1,6 +1,6 @@
 ---
 title: "Can Attention Masks Improve Adversarial Robustness?"
-date: 2019-12-04
+date: 2020-02-07
 publishDate: 2020-07-19T18:27:41.188071Z
 authors: ["Pratik Vaishnavi", "Tianji Cong", "Kevin Eykholt", "Atul Prakash", "Amir Rahmati"]
 publication_types: ["1"]

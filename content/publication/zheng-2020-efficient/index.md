@@ -1,6 +1,6 @@
 ---
 title: "Efficient adversarial training with transferable adversarial examples"
-date: 2020-02-23
+date: 2020-06-14
 publishDate: 2020-07-19T18:17:07.057925Z
 authors: ["Haizhong Zheng", "Ziqi Zhang", "Juncheng Gu", "Honglak Lee", "Atul Prakash"]
 publication_types: ["1"]

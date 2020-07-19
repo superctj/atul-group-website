@@ -9,6 +9,7 @@ weight = 40  # Order that this section will appear.
 
 title = "Recent Publications"
 subtitle = ""
+disable_links_title = true
 
 [content]
   # Page type to display. E.g. post, talk, or publication.

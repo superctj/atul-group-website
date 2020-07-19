@@ -1,6 +1,6 @@
 ---
 title: "Analyzing the Interpretability Robustness of Self-Explaining Models"
-date: 2019-06-03
+date: 2019-06-14
 publishDate: 2020-07-19T18:45:23.473842Z
 authors: ["Haizhong Zheng", "Earlence Fernandes", "Atul Prakash"]
 publication_types: ["1"]
