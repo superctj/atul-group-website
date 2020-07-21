@@ -6,7 +6,7 @@ authors: ["Dawn Song", "Kevin Eykholt", "Ivan Evtimov", "Earlence Fernandes", "B
 publication_types: ["1"]
 abstract: ""
 featured: false
-publication: "*12th $$USENIX$$ Workshop on Offensive Technologies ($$WOOT$$ 18)*"
+publication: "*12th USENIX Workshop on Offensive Technologies (WOOT 18)*"
 url_pdf: https://www.usenix.org/conference/woot18/presentation/eykholtEykholt_Robust_Physical-World_Attacks_CVPR_2018_paper
 url_code:
 ---
